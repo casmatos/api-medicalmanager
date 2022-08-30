@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MedicalManager.Domain", "sr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{E0BB2D8D-F75E-4822-9C5A-366CBCEF342A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalManagerTestUnit", "MedicalManagerTestUnit\MedicalManagerTestUnit.csproj", "{70EADFBE-4629-45AC-B98A-8B5BAB64736D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicalManagerTestUnit", "test\MedicalManagerTestUnit\MedicalManagerTestUnit.csproj", "{70EADFBE-4629-45AC-B98A-8B5BAB64736D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
